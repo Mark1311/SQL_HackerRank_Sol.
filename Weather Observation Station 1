@@ -1,0 +1,3 @@
+Problem:>>>>    Query a list of CITY and STATE from the STATION table.
+
+Query:>>>>    Select City,State from STATION;
