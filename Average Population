@@ -1,0 +1,7 @@
+Solution:- Query the average population for all cities in CITY, rounded down to the nearest integer.
+
+Query:- Select Round(Avg(Population), 0) from City 
+
+        OR
+
+Select Floor(Avg(Population)) from City
