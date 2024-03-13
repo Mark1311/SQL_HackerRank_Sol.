@@ -1,0 +1,3 @@
+Problem:- Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
+
+Solution:- Select Sum(population) from CITY Where COUNTRYCODE = 'JPN'
